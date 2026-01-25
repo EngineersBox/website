@@ -49,3 +49,7 @@
   --code-bg: #484848;
   --inline-code-bg: #484848;
 }
+
+html {
+	--content-width: 40%;
+}
